@@ -131,7 +131,7 @@ npm run lint     # Run ESLint to check code quality
 
 This project is deployed on **Vercel**:
 
-**Live Link:** `https://react-assignment-avinash.vercel.app` *(update after deployment)*
+**Live Link:** `https://tek-pyramid-assignment-7-4zw2.vercel.app/`
 
 ### How to Deploy on Vercel:
 1. Run `npm run build` → generates a `dist/` folder
