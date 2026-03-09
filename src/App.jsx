@@ -678,7 +678,7 @@
 //   ✅ Quantity selector, tax calculation, clear cart
 
 import { useState, useMemo } from "react";
-import products     from "./data/products";
+import products     from "./data/Products.js";
 import Header       from "./components/ecommerce/Header";
 import FilterBar    from "./components/ecommerce/FilterBar";
 import ProductList  from "./components/ecommerce/ProductList";
